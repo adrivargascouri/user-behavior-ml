@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26302028/README.md)
+[README (1).md](https://github.com/user-attachments/files/26302145/README.1.md)
 # USER BEHAVIOR ANALYSIS WITH MACHINE LEARNING
 
 This project analyzes user behavior data and applies machine learning techniques to identify meaningful user segments based on interaction patterns.
@@ -64,8 +64,8 @@ Developed in **Google Colab** using Python and standard data science libraries.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/adrivargascouri/user-behavior-ml.git
+cd user-behavior-ml
 ```
 
 ### 2. Install dependencies
